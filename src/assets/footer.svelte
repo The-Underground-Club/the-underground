@@ -5,7 +5,6 @@
     <a
       class="flex title-font font-medium items-center justify-center "
       href="https://the-underground.xyz"
-      target="_blank"
     >
       <img src="favicon.png" alt="" />
       <span class="ml-3 text-xl">The Underground</span>
