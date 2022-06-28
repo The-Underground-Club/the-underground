@@ -35,9 +35,9 @@
             <i class="fa-solid fa-book" /> Notebook
           </h1>
           <p class="leading-relaxed mb-3">
-            Check out our latest reative markdown editor! Now your able to
-            export items to pdf, and you can also save your notes for later into
-            a file.
+            Check out our latest reactive markdown editor! Now you're able to
+            export items to pdf, and you can also save your notes for later,
+            into a file.
           </p>
           <a href="https://notes.the-underground.xyz/" target="_blank">
             <button
