@@ -9,8 +9,7 @@
 
 ### ☎️ Connect with me:
 
-- [The Underground](https://the-underground.xyz)
-- [Patreon](https://www.patreon.com/theundergroundclub)
+- [The Underground](https://hatclub.dev)
 - [Discord](https://discord.gg/b9AMnrcXHY)
 
 ---

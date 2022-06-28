@@ -16,7 +16,7 @@
             items to your localstorage, so you can come back and edit your items
             later.
           </p>
-          <a href="https://checklist.the-underground.xyz/">
+          <a href="https://checklist.hatclub.dev/">
             <button
               class="mx-auto text-gray-900 bg-amber-500 py-2 px-8 hover:bg-amber-600 rounded text-lg"
               ><i class="fa-solid fa-rocket" /> Launch App</button
@@ -39,7 +39,7 @@
             export items to pdf, and you can also save your notes for later,
             into a file.
           </p>
-          <a href="https://notes.the-underground.xyz/">
+          <a href="https://notes.hatclub.dev/">
             <button
               class="mx-auto text-gray-900 bg-amber-500 py-2 px-8 hover:bg-amber-600 rounded text-lg"
               ><i class="fa-solid fa-rocket" /> Launch App</button
@@ -61,7 +61,7 @@
             Check out our first ever budget app, which includes saving for
             later. Make categories, spread money, and start saving!
           </p>
-          <a href="#">
+          <a href="https://hatclub.dev">
             <button
               class="mx-auto text-gray-900 bg-amber-500 py-2 px-8 hover:bg-amber-600 rounded text-lg"
               ><i class="fa-solid fa-rocket" /> Launch App</button
